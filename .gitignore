@@ -1,0 +1,15 @@
+# Secrets -- never commit your actual key
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db
